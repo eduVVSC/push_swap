@@ -22,7 +22,8 @@
 <p> - Third, was just get it all together and do some adjustments;</p>
 
 ### The definition of stack:
-<p> This was the part where I had to learn a little bit more about the linked list, and how to properly manipulate them. </p>
+<p> This was the part where I had to learn a little bit more about the linked list, and how to properly manipulate them. Both stacks are linked lists, where each node points to next one, and the last one points to null.</p>
+<p> On the struct of my stack, I always save where the number is in the stack, where is the sorted position he is going to be on the other stack and the next and previous numbers. Doing like this, it helped me to access all the data I needed to make my movements and order the stack.</p>
 
 ### The Movements:
 <p> The movements functions, are supposed to execute the movement and then print the movements made in the terminal.</p>
