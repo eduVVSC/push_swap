@@ -1,10 +1,10 @@
 ## Push_Swap Project
-<p> The push_swap project is about sorting in descending order, the numbers that were passed as argument to the program and to do it we are suposed to use 2 stacks and the movemments expecified in the subject sheet. </p>
+<p > The push_swap project is about sorting in descending order, the numbers that were passed as argument to the program. To do it, we are suposed to use 2 stacks and the movemments expecified in the subject sheet. </p nnm>
 
 ### Main developed areas:
-<p> - ;</p>
-<p> - ;</p>
-<p> - </p>
+<p> - Understanding of algorithms;</p>
+<p> - Program predifined action based on parameters;</p>
+<p> - Claculating of the cheapest action; </p>
 
 
 ## How to use it:
@@ -16,10 +16,20 @@
 
 
 ## Program Development:
-<p> In order to develop the program</p>
+<p> In order to develop the program I separated my tasks:</p> 
+<p> - First I was going to understand the algorithm and wirte a psedocode to it; </p>
+<p> - Second, I started doing the movement functions;</p>
+<p> - Third, was just get it all together and do some adjustments;</p>
 
 ### The definition of stack:
-<p> </p>
+<p> This was the part where I had to learn a little bit more about the linked list, and how to properly manipulate them. </p>
+
+### The Movements:
+<p> The movements functions, are supposed to execute the movement and then print the movements made in the terminal.</p>
+<p> We had available to use this movement: </p>
+<p> | <strong>ra</strong>(rotate a)&emsp;&emsp;&emsp;&emsp;    |    <strong>rra</strong>(reverse rotate a)&emsp; &emsp; &emsp;|    <strong>pa</strong>(push a)&emsp; &emsp; &emsp;   |   <strong>sa</strong>(switch the first and the second from a)</p>
+<p> | <strong>rb</strong>(rotate b)&emsp;&emsp;&emsp;&emsp;    |    <strong>rrb</strong>(reverse rotate b)&emsp; &emsp; &emsp;|    <strong>pb</strong>(push b)&emsp; &emsp; &emsp;   |   <strong>sb</strong>(switch the first and the second from b)</p>
+<p> | <strong>rr</strong>(rotate a and b) &emsp;   |    <strong>rrr</strong>(reverse rotate a and b)</p>
 
 ### The sorting algorithm and execution:
 <p> </p>
