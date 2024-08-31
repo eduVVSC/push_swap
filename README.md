@@ -1,4 +1,5 @@
-## Push_Swap Project
+
+<h1 align="center"> Push_Swap Project</h1>
 <p > The push_swap project is about sorting in descending order, the numbers that were passed as argument to the program. To do it, we are suposed to use 2 stacks and the movemments expecified in the subject sheet. </p nnm>
 
 ### Main developed areas:
@@ -8,12 +9,19 @@
 
 
 ## How to use it:
-<p> If you wanna wanna use it, you should clone the repositiory: </p>
-
-<p> After it, you will enter the directory and do: </p>
-
-<p> Then you are going to execute it, with the number you wanna sort in front of it:</p>
-
+If you wanna wanna use it, you should clone the repositiory:
+```bash
+git clone repository
+```
+After it, you will enter the directory and do:
+```bash
+cd push_swap
+make
+```
+Then you are going to execute it, with the number you wanna sort in front of it:
+```bash
+./push_swap num1 num2 num3 num4 num5...
+```
 
 ## Program Development:
 <p> In order to develop the program I separated my tasks:</p> 
