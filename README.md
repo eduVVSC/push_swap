@@ -11,7 +11,7 @@
 ## How to use it:
 If you wanna wanna use it, you should clone the repositiory:
 ```bash
-git clone repository
+git clone git@github.com:eduVVSC/push_swap.git
 ```
 After it, you will enter the directory and do:
 ```bash
